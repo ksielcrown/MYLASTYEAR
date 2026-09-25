@@ -1,0 +1,5 @@
+# Reportes reales de Intelisis: no subir al repo (es público)
+*.xlsx
+*.xls
+*.csv
+!tests/fixtures/*.csv
