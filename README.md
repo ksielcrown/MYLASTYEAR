@@ -4,3 +4,7 @@ ETL y sugerencia de compra construidos con Google Sheets + Apps Script a partir 
 "Inventario Detallado por Artículo" de Intelisis.
 
 - [Mapeo del reporte y propuesta de desarrollo](docs/01-mapeo-reporte-intelisis.md)
+
+Otros proyectos:
+
+- [Reproductor MIDI con buzzer, tira LED y OLED (ESP32 / Wokwi)](midi-player/README.md)
