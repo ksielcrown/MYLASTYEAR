@@ -3,3 +3,9 @@
 *.xls
 *.csv
 !tests/fixtures/*.csv
+
+# Audio con copyright: no subir al repo
+*.mp3
+*.wav
+*.mid
+*.midi
